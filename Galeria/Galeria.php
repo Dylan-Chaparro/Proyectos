@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+<div class="container-xl">
+    <center>
+    <h1>GALERIA de IMAGENES</h1>
+    <h3></h3>
+    <br>
+    </center>
+<div class="container">
+    <div class="box">
+      <img src="img/sql.png" alt="">  
+    </div>
+    <div class="box">
+        <img src="img/css.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/JS.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/trabajo final dylan chaparro.jpg" alt="">
+    </div>
+    <div class="box">
+        <img src="img/bootstrap.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/defensa.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/Expedientes.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/fz.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/html.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/office.png" alt="">
+    </div>
+
+    <div class="box">
+        <img src="img/php.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/sosrural.png" alt="">
+    </div>
+    <div class="box">
+        <img src="img/php.png" alt="">
+    </div>
+
+</div>
+</div>
+</body>
+</html>
